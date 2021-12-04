@@ -1,3 +1,4 @@
+package com.akash.first;
 import udemyjavabasics.Animals;
 
 public class Fish extends Animals{
